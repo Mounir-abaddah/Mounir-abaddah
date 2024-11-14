@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis un développeur web passionné avec un Bac +2 en développement informatique. Actuellement, je travaille sur un projet de site web ecommerce, Je maîtrise le MERN stack (MongoDB, Express.js, React.js, Node.js), ce qui me permet de créer des applications web complètes, de la gestion de bases de données à l'interface utilisateur.<br><br>Je suis constamment à la recherche de nouvelles opportunités pour améliorer mes compétences et contribuer à des projets innovants. Mon objectif est de devenir un développeur full-stack accompli, capable de créer des solutions web robustes et efficaces.
+Je suis un développeur web passionné avec un Bac +2 en développement informatique. Je maîtrise le MERN stack (MongoDB, Express.js, React.js, Node.js), ce qui me permet de créer des applications web complètes, de la gestion de bases de données à l'interface utilisateur.<br><br>Je suis constamment à la recherche de nouvelles opportunités pour améliorer mes compétences et contribuer à des projets innovants. Mon objectif est de devenir un développeur full-stack accompli, capable de créer des solutions web robustes et efficaces.
 
 
 ## 🌐 Socials:
